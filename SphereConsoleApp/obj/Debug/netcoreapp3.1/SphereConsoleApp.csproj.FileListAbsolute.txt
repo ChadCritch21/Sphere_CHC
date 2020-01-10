@@ -1,0 +1,11 @@
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\bin\Debug\netcoreapp3.1\SphereConsoleApp.exe
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\bin\Debug\netcoreapp3.1\SphereConsoleApp.deps.json
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\bin\Debug\netcoreapp3.1\SphereConsoleApp.runtimeconfig.json
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\bin\Debug\netcoreapp3.1\SphereConsoleApp.runtimeconfig.dev.json
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\bin\Debug\netcoreapp3.1\SphereConsoleApp.dll
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\bin\Debug\netcoreapp3.1\SphereConsoleApp.pdb
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\obj\Debug\netcoreapp3.1\SphereConsoleApp.csprojAssemblyReference.cache
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\obj\Debug\netcoreapp3.1\SphereConsoleApp.AssemblyInfoInputs.cache
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\obj\Debug\netcoreapp3.1\SphereConsoleApp.AssemblyInfo.cs
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\obj\Debug\netcoreapp3.1\SphereConsoleApp.dll
+C:\Users\chadc\source\repos\SphereConsoleApp\SphereConsoleApp\obj\Debug\netcoreapp3.1\SphereConsoleApp.pdb
